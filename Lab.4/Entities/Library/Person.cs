@@ -10,7 +10,7 @@ namespace Lab._4.Entities.Library
         public string Name { get; set; } = string.Empty;
         public string Surname { get; set; } = string.Empty;
         public float Age { get; set; }
-        public List<IBook> Books { get; set; } = new List<IBook>();
+        public List<Book> Books { get; set; } = new List<Book>();
 
         public long Id { get; set; }
         public DateTime Date { get; set; } = DateTime.Now;
