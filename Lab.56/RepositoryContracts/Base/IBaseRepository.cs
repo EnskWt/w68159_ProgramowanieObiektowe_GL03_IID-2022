@@ -15,6 +15,6 @@ namespace Lab._56.RepositoryContracts.Base
 
         void Get();
 
-        void GetAll();
+        List<int> GetAll();
     }
 }

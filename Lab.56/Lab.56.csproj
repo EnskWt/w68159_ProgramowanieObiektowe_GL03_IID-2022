@@ -6,8 +6,4 @@
     <RootNamespace>Lab._56</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Repositories\Book\" />
-  </ItemGroup>
-
 </Project>
